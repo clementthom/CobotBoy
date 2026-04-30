@@ -5,7 +5,7 @@
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
-    "high_contrast_mode": 0,
+    "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
@@ -63,7 +63,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "IHM2.kicad_prl",
+    "filename": "IHM2_2copperZones.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -91,7 +91,18 @@
       8,
       9
     ],
-    "col_widths": [],
+    "col_widths": [
+      294,
+      279,
+      190,
+      187,
+      191,
+      254,
+      182,
+      193,
+      173,
+      173
+    ],
     "custom_group_rules": [],
     "expanded_rows": [],
     "filter_by_net_name": true,
@@ -103,7 +114,7 @@
     "show_unconnected_nets": false,
     "show_zero_pad_nets": false,
     "sort_ascending": true,
-    "sorting_column": -1
+    "sorting_column": 0
   },
   "open_jobsets": [],
   "project": {
