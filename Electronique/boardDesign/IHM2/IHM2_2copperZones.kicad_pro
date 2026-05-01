@@ -522,7 +522,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerberIHMMeca22-3/",
       "specctra_dsn": "",
       "vrml": ""
     },
