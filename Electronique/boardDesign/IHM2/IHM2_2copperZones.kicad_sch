@@ -7,7 +7,7 @@
 	(title_block
 		(title "CobotBoy_IHM")
 		(date "2026-04-27")
-		(rev "0")
+		(rev "2")
 		(company "MECA22-3")
 	)
 	(lib_symbols
@@ -3425,7 +3425,7 @@
 			(uuid "ab340e39-481d-42bb-ac11-22a80e4fe8c9")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "#PWR06")
 					(unit 1)
@@ -3518,7 +3518,7 @@
 			(uuid "2aae8510-0188-4a62-971b-b45756ce464d")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "D4")
 					(unit 1)
@@ -3596,7 +3596,7 @@
 			(uuid "324d4ce1-9ec8-4a52-a53d-52e2d83107f4")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "#PWR03")
 					(unit 1)
@@ -3678,7 +3678,7 @@
 			(uuid "5eef30c4-ec99-42d1-9b8d-59cf3af12936")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "R4")
 					(unit 1)
@@ -3760,7 +3760,7 @@
 			(uuid "1ad2b84e-d8d4-4e27-b091-59f613a9f2db")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "R3")
 					(unit 1)
@@ -3838,7 +3838,7 @@
 			(uuid "cc6114ad-d63c-4892-b560-d136ada67179")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "#FLG01")
 					(unit 1)
@@ -3943,7 +3943,7 @@
 			(uuid "5d52b951-0c15-491d-a0d5-7916dba8efb3")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "C6")
 					(unit 1)
@@ -4048,7 +4048,7 @@
 			(uuid "1599cb96-a003-4703-9ddc-3d144a47ecf1")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "C2")
 					(unit 1)
@@ -4126,7 +4126,7 @@
 			(uuid "5c3aea4a-952c-45c7-882e-80dc671f6eb0")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "#PWR08")
 					(unit 1)
@@ -4204,7 +4204,7 @@
 			(uuid "48eda4b9-e6f4-4a50-ba1b-62f3fe78bfab")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "#PWR07")
 					(unit 1)
@@ -4290,7 +4290,7 @@
 			(uuid "fb430c79-1027-410f-bde2-a14d6ca44342")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "SW3")
 					(unit 1)
@@ -4395,7 +4395,7 @@
 			(uuid "810c793d-8b6b-4f61-97b6-b54520324069")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "C5")
 					(unit 1)
@@ -4473,7 +4473,7 @@
 			(uuid "55aba0f9-5a12-4529-9b88-37c73c91d4aa")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "#PWR011")
 					(unit 1)
@@ -4591,7 +4591,7 @@
 			(uuid "b2b5b708-2b1f-43dc-9f4d-94586ccc3c0c")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "J1")
 					(unit 1)
@@ -4673,7 +4673,7 @@
 			(uuid "585d82ba-a00a-4f07-b025-3e8acf3b5df2")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "R1")
 					(unit 1)
@@ -4762,7 +4762,7 @@
 			(uuid "7f0c85a7-73ee-4f55-966f-1cca54d154fa")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "SW4")
 					(unit 1)
@@ -4840,7 +4840,7 @@
 			(uuid "9ad24d1a-f836-4f45-a134-e6647fb4d1bd")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "#PWR013")
 					(unit 1)
@@ -4918,7 +4918,7 @@
 			(uuid "1a1c9aca-e1c3-4172-b077-d83b7bce4a53")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "#PWR09")
 					(unit 1)
@@ -4996,7 +4996,7 @@
 			(uuid "69da5ae9-2e7c-4126-96f1-3b8b278be4e7")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "#PWR010")
 					(unit 1)
@@ -5074,7 +5074,7 @@
 			(uuid "e94ac5c4-eb5b-4c47-8691-540defac868f")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "#PWR02")
 					(unit 1)
@@ -5152,7 +5152,7 @@
 			(uuid "66426416-f7de-46aa-84c4-4d1bbd64ffe4")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "#PWR01")
 					(unit 1)
@@ -5257,7 +5257,7 @@
 			(uuid "520cc8ab-1fcc-4f23-9b4d-101b6978166b")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "C3")
 					(unit 1)
@@ -5345,7 +5345,7 @@
 			(uuid "66cc1b9f-bb41-4172-b60a-8e6d4abe82d8")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "U1")
 					(unit 1)
@@ -5431,7 +5431,7 @@
 			(uuid "f8b3ead2-9bc7-4bf5-abb7-3baeabd71b1f")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "SW1")
 					(unit 1)
@@ -5536,7 +5536,7 @@
 			(uuid "ffffbc1b-ffc7-46fd-94b0-bc9cb11d79cf")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "C1")
 					(unit 1)
@@ -5614,7 +5614,7 @@
 			(uuid "b7b6410c-b4ba-4dc4-b19a-0f94f2a8d001")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "#PWR05")
 					(unit 1)
@@ -5700,7 +5700,7 @@
 			(uuid "d90a3679-e80d-4751-955e-b8f9eb4d585a")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "SW2")
 					(unit 1)
@@ -5793,7 +5793,7 @@
 			(uuid "9ada10ae-e79e-4459-8abb-88bfacc1beb2")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "D2")
 					(unit 1)
@@ -5871,7 +5871,7 @@
 			(uuid "38f0471e-a613-4f29-9e27-59f5f34bf16c")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "#PWR04")
 					(unit 1)
@@ -5964,7 +5964,7 @@
 			(uuid "1ba3c3bf-2885-4439-a6bb-9598dc81c100")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "D3")
 					(unit 1)
@@ -6057,7 +6057,7 @@
 			(uuid "d16a2750-ac96-4143-8cf3-f8a93b0f960c")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "D1")
 					(unit 1)
@@ -6162,7 +6162,7 @@
 			(uuid "8e549a66-c4eb-4f3b-91b3-4ff3b7eb329b")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "C4")
 					(unit 1)
@@ -6240,7 +6240,7 @@
 			(uuid "2075de1a-72a3-4ce5-aaea-3cb7889095ba")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "#FLG02")
 					(unit 1)
@@ -6322,7 +6322,7 @@
 			(uuid "f61ad1d3-6741-4821-8f6d-d366a85fd732")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "R2")
 					(unit 1)
@@ -6400,7 +6400,7 @@
 			(uuid "0b424533-f657-4e34-b053-46d71ca9c4fa")
 		)
 		(instances
-			(project "IHM2"
+			(project "IHM2_2copperZones"
 				(path "/321262bf-1b72-41c8-b260-ad92d49516b6"
 					(reference "#PWR012")
 					(unit 1)

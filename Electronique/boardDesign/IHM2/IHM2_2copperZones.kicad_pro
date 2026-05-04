@@ -238,7 +238,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "0"
+      "sch_revision": "2"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -522,7 +522,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../../../../../../../../../../../Bureau/",
+      "plot": "../../../../../../../../../../../Bureau/EIGSI-4A/12ProjetMecatro/Electronique/boardDesign/IHM2/gerberIHMMeca22-3/",
       "specctra_dsn": "",
       "vrml": ""
     },
