@@ -1,0 +1,13 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Unit power (W),Total power (W),
+C1,1,1uF,,,,Capacitor_SMD:C_1206_3216Metric,0,0,
+"C2,C3,C6",3,100nF,,,,Capacitor_SMD:C_1206_3216Metric,0,0,
+"C4,C5",2,33nF,,,,Capacitor_SMD:C_1206_3216Metric,0,0,
+"D1,D2,D3,D4",4,LED,,,,LED_SMD:LED_1206_3216Metric,0.1,0.4,
+J1,1,Conn_01x14,,,,rotaryEncoder:1x14 THT input,0,0,
+"R1,R2,R3,R4",4,220,,,,Resistor_SMD:R_1206_3216Metric,0.088,0.455,
+SW1,1,SW_Push_Dual_INIT,,,,rotaryEncoder:SW_Push_Dual_13mm,0,0,
+SW2,1,SW_Push_Dual_START,,,,rotaryEncoder:SW_Push_Dual_13mm,0,0,
+SW3,1,SW_Push_Dual_PAUSE,,,,rotaryEncoder:SW_Push_Dual_13mm,0,0,
+SW4,1,RotaryEncoder_Switch,,,,rotaryEncoder:RotaryEncoder_SW,0.005,0.005,
+U1,1,ER_OLEDM0.91_1x-I2C,,,,rotaryEncoder:oledDisplay1Inch,0.04,0.04,https://universal-solder.ca/downloads/canaduino_oled_1.3_i2c.pdf
+,,,,,,,,0.9,
