@@ -1,15 +1,15 @@
 Identifiant broche PCB ,Denomination,Broche (Mega),Type
-1,+5V,,Power
-2,GND,,Power
-3,CLK_ROT,,CLK_I2C
-4,DT_ROT,,DATA_I2C
-5,SW_ROT,,Digital output
-6,SCL_SCREEN,,CLK_I2C
-7,SDA_SCREEN,,DATA_I2C
-8,LED_POW,,Digital input
-9,LED_INIT,,Digital input
-10,LED_START,,Digital input
-11,LED_PAUSE,,Digital input
-12,SW_INIT_OUT,,Digital output
-13,SW_START_OUT,,Digital output
-14,SW_PAUSE_OUT,,Digital output
+1,+5V,5V,Power
+2,GND,GND,Power
+3,CLK_ROT,40,CLK_I2C
+4,DT_ROT,42,DATA_I2C
+5,SW_ROT,46,Digital output
+6,SCL_SCREEN,21,CLK_I2C
+7,SDA_SCREEN,20,DATA_I2C
+8,LED_POW,34,Digital input
+9,LED_INIT,36,Digital input
+10,LED_START,30,Digital input
+11,LED_PAUSE,32,Digital input
+12,SW_INIT_OUT,24,Digital output
+13,SW_START_OUT,22,Digital output
+14,SW_PAUSE_OUT,24,Digital output
