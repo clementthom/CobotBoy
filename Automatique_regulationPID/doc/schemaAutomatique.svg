@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="schemaAutomatique.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.39508209"
+     inkscape:cx="550.5185"
+     inkscape:cy="394.85464"
+     inkscape:window-width="1536"
+     inkscape:window-height="821"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       id="path1"
+       cx="106.01016"
+       cy="40.616066"
+       r="6.6922603"
+       transform="rotate(45)"
+       inkscape:export-filename="schemaCorrectionPerturbation.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       id="rect1"
+       width="38.815109"
+       height="19.407555"
+       x="80.619095"
+       y="94.722054" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       d="m 50.868095,98.871212 -9.410571,9.480548"
+       id="path3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       d="m 41.476622,98.957062 9.480544,9.550508"
+       id="path4" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       id="rect6"
+       width="38.815109"
+       height="19.407555"
+       x="156.21495"
+       y="94.722054" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       id="circle6"
+       cx="237.24066"
+       cy="-90.614464"
+       r="6.6922603"
+       transform="rotate(45)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       d="m 236.45596,98.871212 -9.41057,9.480548"
+       id="path6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       d="m 227.06449,98.957062 9.48054,9.550508"
+       id="path7" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       id="rect7"
+       width="38.815109"
+       height="19.407555"
+       x="214.42334"
+       y="47.097061" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       id="rect8"
+       width="38.815109"
+       height="19.407555"
+       x="124.46494"
+       y="137.05534" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="M 8.868602,104.14615 H 37.631637"
+       id="path8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="M 53.413724,104.14615 H 77.744762"
+       id="path9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="m 120.68915,104.14615 33.35919,0"
+       id="path10"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="m 196.04678,104.14615 25.31594,0"
+       id="path11"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="m 240.59193,104.14615 35.16482,0"
+       id="path12"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="m 231.94605,68.730925 0,25.315942"
+       id="path13"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="m 232.15089,14.743081 v 28.76305"
+       id="path14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="m 253.33702,104.37344 v 43.1768 l -87.22865,-0.3644"
+       id="path15"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="M 123.776,148.50411 H 45.749929 l 0.3644,-35.3469"
+       id="path16"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="22.50246"
+       y="98.465958"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="22.50246"
+         y="98.465958">E(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="64.8358"
+       y="98.465958"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="64.8358"
+         y="98.465958">ɛ(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="100.28994"
+       y="106.93262"
+       id="text18"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="100.28994"
+         y="106.93262">H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan20">c</tspan>(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="176.48993"
+       y="106.93262"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="176.48993"
+         y="106.93262">H(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="234.16916"
+       y="59.8368"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="234.16916"
+         y="59.8368">H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan22">p</tspan>(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="144.7399"
+       y="149.26598"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="144.7399"
+         y="149.26598">H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan24">cap</tspan>(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="138.91913"
+       y="98.465958"
+       id="text25"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="138.91913"
+         y="98.465958">E<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan26">corr</tspan>(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="210.88597"
+       y="98.465958"
+       id="text27"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="210.88597"
+         y="98.465958">I(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="258.51102"
+       y="98.465958"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan28"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="258.51102"
+         y="98.465958">S(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="242.636"
+       y="29.674299"
+       id="text29"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="242.636"
+         y="29.674299">P(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="242.636"
+       y="79.945129"
+       id="text30"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="242.636"
+         y="79.945129">I<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan31">pert</tspan>(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="80.710793"
+       y="145.03265"
+       id="text32"><tspan
+         sodipodi:role="line"
+         id="tspan32"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="80.710793"
+         y="145.03265">V<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan33">cap</tspan>(p)</tspan></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       id="circle33"
+       cx="-129.7216"
+       cy="-195.11571"
+       r="6.6922603"
+       transform="rotate(45)"
+       inkscape:export-filename="schemaSansCorrectionNiPerturbation.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       d="m 50.86809,-234.50388 -9.410564,9.48055"
+       id="path33" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       d="m 41.476626,-234.41803 9.480544,9.55051"
+       id="path34" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       id="rect34"
+       width="38.815109"
+       height="19.407555"
+       x="124.46493"
+       y="-238.65303" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       id="rect37"
+       width="38.815109"
+       height="19.407555"
+       x="124.46493"
+       y="-196.31969" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="M 8.8686043,-229.22894 H 37.631636"
+       id="path37" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="M 53.413727,-229.22894 H 121.84345"
+       id="path38"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="M 163.05804,-229.22894 H 275.75675"
+       id="path41"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="m 253.33702,-229.00165 v 43.1768 l -87.22865,-0.3644"
+       id="path44"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="M 123.776,-184.87098 H 45.749933 l 0.3644,-35.3469"
+       id="path45"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="22.502468"
+       y="-234.90913"
+       id="text45"><tspan
+         sodipodi:role="line"
+         id="tspan45"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="22.502468"
+         y="-234.90913">E(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="64.835808"
+       y="-234.90913"
+       id="text46"><tspan
+         sodipodi:role="line"
+         id="tspan46"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="64.835808"
+         y="-234.90913">ɛ(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="144.7399"
+       y="-226.44243"
+       id="text49"><tspan
+         sodipodi:role="line"
+         id="tspan49"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="144.7399"
+         y="-226.44243">H(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="144.7399"
+       y="-184.10905"
+       id="text53"><tspan
+         sodipodi:role="line"
+         id="tspan53"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="144.7399"
+         y="-184.10905">H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan52">cap</tspan>(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="258.51102"
+       y="-234.90913"
+       id="text57"><tspan
+         sodipodi:role="line"
+         id="tspan57"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="258.51102"
+         y="-234.90913">S(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="80.710793"
+       y="-188.34239"
+       id="text62"><tspan
+         sodipodi:role="line"
+         id="tspan62"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="80.710793"
+         y="-188.34239">V<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan61">cap</tspan>(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="100.28992"
+       y="89.99929"
+       id="text65"><tspan
+         sodipodi:role="line"
+         id="tspan65"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="100.28992"
+         y="89.99929">PID</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="42.208923"
+       y="105.05166"
+       id="text66"><tspan
+         sodipodi:role="line"
+         id="tspan66"
+         style="font-size:4.93889px;stroke-width:0.615"
+         x="42.208923"
+         y="105.05166">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="45.91309"
+       y="109.285"
+       id="text67"><tspan
+         sodipodi:role="line"
+         id="tspan67"
+         style="font-size:4.93889px;stroke-width:0.615"
+         x="45.91309"
+         y="109.285">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="227.86491"
+       y="105.34166"
+       id="text66-4"><tspan
+         sodipodi:role="line"
+         id="tspan66-5"
+         style="font-size:4.93889px;stroke-width:0.615"
+         x="227.86491"
+         y="105.34166">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="231.56911"
+       y="101.10834"
+       id="text68"><tspan
+         sodipodi:role="line"
+         id="tspan68"
+         style="font-size:4.93889px;stroke-width:0.615"
+         x="231.56911"
+         y="101.10834">+</tspan></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       id="circle102"
+       cx="-17.468372"
+       cy="-82.86245"
+       r="6.6922603"
+       transform="rotate(45)"
+       inkscape:export-filename="schemaCorrectionPasPerturbation.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       id="rect102"
+       width="38.815109"
+       height="19.407555"
+       x="80.619095"
+       y="-79.902939" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       d="m 50.868095,-75.753797 -9.410571,9.480545"
+       id="path102" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       d="m 41.476622,-75.667947 9.480544,9.550505"
+       id="path103" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       id="rect103"
+       width="38.815109"
+       height="19.407555"
+       x="156.21495"
+       y="-79.902939" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       id="circle103"
+       cx="113.76208"
+       cy="-214.09305"
+       r="6.6922603"
+       transform="rotate(45)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       d="m 236.45596,-75.753797 -9.41057,9.480545"
+       id="path104" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       d="m 227.06449,-75.667947 9.48054,9.550505"
+       id="path105" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.439289;stroke-linecap:square;stroke-miterlimit:3.9"
+       id="rect106"
+       width="38.815109"
+       height="19.407555"
+       x="124.46494"
+       y="-37.569637" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="M 8.868602,-70.478859 H 37.631637"
+       id="path106" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="M 53.413724,-70.478859 H 77.744762"
+       id="path107"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="m 120.68915,-70.478859 h 33.35919"
+       id="path108"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="m 196.04678,-70.478859 h 25.31594"
+       id="path109"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="m 240.59193,-70.478859 h 35.16482"
+       id="path110"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="m 253.33702,-70.251569 v 43.176776 l -87.22865,-0.3644"
+       id="path113"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9;marker-end:url(#Triangle)"
+       d="M 123.776,-26.120927 H 45.749929 l 0.3644,-35.346878"
+       id="path114"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="22.50246"
+       y="-76.159035"
+       id="text114"><tspan
+         sodipodi:role="line"
+         id="tspan114"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="22.50246"
+         y="-76.159035">E(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="64.8358"
+       y="-76.159035"
+       id="text115"><tspan
+         sodipodi:role="line"
+         id="tspan115"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="64.8358"
+         y="-76.159035">ɛ(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="100.28994"
+       y="-67.692375"
+       id="text117"><tspan
+         sodipodi:role="line"
+         id="tspan117"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="100.28994"
+         y="-67.692375">H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan116">c</tspan>(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="176.48993"
+       y="-67.692375"
+       id="text118"><tspan
+         sodipodi:role="line"
+         id="tspan118"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="176.48993"
+         y="-67.692375">H(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="144.7399"
+       y="-25.359035"
+       id="text122"><tspan
+         sodipodi:role="line"
+         id="tspan122"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="144.7399"
+         y="-25.359035">H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan121">cap</tspan>(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="138.91913"
+       y="-76.159035"
+       id="text124"><tspan
+         sodipodi:role="line"
+         id="tspan124"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="138.91913"
+         y="-76.159035">E<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan123">corr</tspan>(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="210.88597"
+       y="-76.159035"
+       id="text125"><tspan
+         sodipodi:role="line"
+         id="tspan125"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="210.88597"
+         y="-76.159035">I(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="258.51102"
+       y="-76.159035"
+       id="text126"><tspan
+         sodipodi:role="line"
+         id="tspan126"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="258.51102"
+         y="-76.159035">S(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="80.710793"
+       y="-29.592352"
+       id="text131"><tspan
+         sodipodi:role="line"
+         id="tspan131"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="80.710793"
+         y="-29.592352">V<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan130">cap</tspan>(p)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="100.28992"
+       y="-84.625702"
+       id="text132"><tspan
+         sodipodi:role="line"
+         id="tspan132"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615"
+         x="100.28992"
+         y="-84.625702">PID</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="42.208923"
+       y="-69.573334"
+       id="text133"><tspan
+         sodipodi:role="line"
+         id="tspan133"
+         style="font-size:4.93889px;stroke-width:0.615"
+         x="42.208923"
+         y="-69.573334">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="45.91309"
+       y="-65.339989"
+       id="text134"><tspan
+         sodipodi:role="line"
+         id="tspan134"
+         style="font-size:4.93889px;stroke-width:0.615"
+         x="45.91309"
+         y="-65.339989">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="227.86491"
+       y="-69.283325"
+       id="text135"><tspan
+         sodipodi:role="line"
+         id="tspan135"
+         style="font-size:4.93889px;stroke-width:0.615"
+         x="227.86491"
+         y="-69.283325">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615;stroke-linecap:square;stroke-miterlimit:3.9"
+       x="231.56911"
+       y="-73.516655"
+       id="text136"><tspan
+         sodipodi:role="line"
+         id="tspan136"
+         style="font-size:4.93889px;stroke-width:0.615"
+         x="231.56911"
+         y="-73.516655">+</tspan></text>
+  </g>
+</svg>
