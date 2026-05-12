@@ -51,7 +51,7 @@
 
 
   %PID creation
-  Kp = 1000%proportional coeff --> we want I=U*Hc*Hp=0.15 at tf --> Hc*Hp =0.15/5=0.03
+  Kp = 500%proportional coeff --> we want I=U*Hc*Hp=0.15 at tf --> Hc*Hp =0.15/5=0.03
   Ki = 0%integration coeff
   Kd = 0%derivative coeff
   %only a big proportional (line) gain is useful here (1st order : no peak to moderate) --> won't be the case when we will introduce distrurbances
@@ -125,9 +125,9 @@
 
 % we have a current peak superior to the one mentionned in the datasheet (albeit a small one) : need to change PID params
 
- Kp=1000 %no need to change --> good steady state value
+ Kp=500 %no need to change --> good steady state value
  Ki=0 %we guess that the resistance torque is constant : no perturbation variation
- Kd=0.08 %Kd reduces the current peak, but a too large value can reduce precision at steady state
+ Kd=2.5 %Kd reduces the current peak, but a too large value can reduce precision at steady state
 
 
  Hc = pid(Kp, Ki, Kd)

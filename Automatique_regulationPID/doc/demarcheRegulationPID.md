@@ -23,8 +23,6 @@ Ce document a pour objectif de présenter la représentation du système de pré
     [Arduino](#arduino)<br>
   [Annexe : code Matlab/Octave commenté](#annexe-code-matlaboctave-commenté)<br>
 
-
-
 ## Modélisation du système par sa fonction de transfert
 
 ### Constantes du systèmes
@@ -32,20 +30,23 @@ Ce document a pour objectif de présenter la représentation du système de pré
 En utilisant la datasheet fournie par Mr Voyer, on peut isoler les grandeurs suivantes : 
 
 - A vide :
-    - $U=5$ V
-    - $I=0,15$ A
-    - $N=195$ tr/min
-    
+  
+  - $U=5$ V
+  - $I=0,15$ A
+  - $N=195$ tr/min
+
 - Bloqué :
-    - $U<1$ V
-    - $I=0,26$ A
+  
+  - $U<1$ V
+  - $I=0,26$ A
 
 - $R = 3,8$ $\Omega$, résistance de bobinage
+
 - $k = 4,5 \times 10^{-3}$ $V\cdot rad^{-1} \cdot s$
+
 - $L = 1,6 mH$
+
 - $f = 2,1 \cdot 10^{-7} N\cdot m \cdot rad^{-1} \cdot s$
-
-
 
 ### Equations liées au moteur de préhension
 
@@ -54,9 +55,9 @@ Afin de pouvoir asservir le moteur préhenseur (Moteur à Courant Continu, MCC),
 Le MCC peut être défini par les équations électrique et mécanique suivantes : 
 
 - équation électrique : $u(t) = Ri(t) + L \frac{di}{dt} + e(t)$, <br>
-où u(t) est la tension aux bornes du moteur, R sa résistance interne, i l'intensité qu'il consomme, L son inductance interne et e(t) sa forme électro-motrice (FEM). <br><br>
+  où u(t) est la tension aux bornes du moteur, R sa résistance interne, i l'intensité qu'il consomme, L son inductance interne et e(t) sa forme électro-motrice (FEM). <br><br>
 - équation mécanique : $J\frac{d\omega(t)}{dt}+f\times\omega(t)=Cm   (2)$ <br>
-où J est le moment d'inertie du moteur, $\omega$ sa vitesse de rotation, f son coefficient de frottement et Cm son couple moteur. <br><br>
+  où J est le moment d'inertie du moteur, $\omega$ sa vitesse de rotation, f son coefficient de frottement et Cm son couple moteur. <br><br>
 - relation couple-intensité : $Cm = k\times i(t)   (3)$, où k est la constante interne du moteur. <br><br>
 - relation FEM-vitesse de rotation : $e(t)= k\times\omega(t)   (4)$<br><br>
 
@@ -93,6 +94,7 @@ $H(p)=\frac{1}{Lp+(R+\frac{k²}{f})}$ <br> <br> $= \frac{\frac{1}{R+\frac{k²}{f
 <br> <br>
 
 ### Déterminations du gain statique et du temps caractéristique
+
 <br> 
 Nous commençons l'application numérique en redéterminant la valeur de $f$, définie précédemment en prendant en compte $J$, que l'on n'a pas.
 
@@ -143,7 +145,6 @@ $Kp$ a été défini empiriquement, après plusieurs tests pour maximiser la pr�
 <img src="../Graphs/Graphs_Td_1000/Figure2_courbeIntensiteAvecPIDSansPerturbation.jpg" title="" alt="Boucle fermée avec correction sans perturbation" data-align="center" width="300">
 <br> 
 
-
 On ajoute maintenant une perturbation. Cette perturbation bloque complétement le moteur : on prend $Iperturbation = Ibloqué = 0.26 A$
 
 <br> 
@@ -182,11 +183,13 @@ A titre de comparaison, voici à quoi ressemblerait le comportement du système 
 
 Après quelques recherches, nous avons trouvé une bibliothèque de régulation par correcteur PID : **AutoPID**. Cet outil s'applique au travers d'une unique fonction : 
 <br>
+
 ```c++
 AutoPID(double *input, double *setpoint, double *output, 
   double outputMin, double outputMax, 
   double Kp, double Ki, double Kd)
 ```
+
 <br>
 où : 
 <br><br>
@@ -211,25 +214,36 @@ On a justement un problème à ce niveau. Notre Kp étant très élevé, il suff
 
 On utilise le programme Octave défini précédemment; on modifie le coefficient proportionnel de façon à ce que la précision du système ne soit pas mauvaise, tout en garantissant un facteur de multiplication suffisamment faible pour qu'il n'amplifie pas l'erreur au point de rendre le signal PWM saturé. On choisira ainsi : 
 <br>
-- $Kp = 1000$
+
+- $Kp = 500$
 - $Ki = 0$
-- $Kd = 0.08$
+- $Kd = 2.5$
+
+<br> 
+<img src="../Graphs/Graphs_Td_corrige/Figure2_courbeIntensiteAvecPIDSansPerturbation.jpg" title="" alt="Boucle fermée avec correction sans perturbation" data-align="center" width="300">
+<br> 
 
 
+<br> 
+<img src="../Graphs/Graphs_Td_corrige/Figure5_courbeIntensiteAvecSecondPIDAvecPerturbation_zoomPicCorrige.jpg" title="" alt="Boucle fermée avec correction sans perturbation" data-align="center" width="300">
+<br> 
 
 ## Annexes
 
 ### Annexe : Liens utiles
 
 #### Données du moteur
+
 - Documentation moteur Jaune, *Damien Voyer*, EIGSI
 
 #### Calibrage du PID
+
 - Cours d'Automatique Parties 1 et 2, *Jing Yun ZHAO*, EIGSI
 - Guide complet pour réglage PID : <br>https://yutec.fr/freelance/reglage-pid/ <br>
 - Example de modélisation PID sur Matlab : <br>https://www.youtube.com/watch?v=lfMMPe7s9nU <br>
 
 #### Ressources Octaves et outils
+
 - Description instruction **pid()** : <br>https://octave.sourceforge.io/control/function/pid.html <br>
 - Description instruction **tf()** : <br>https://octave.sourceforge.io/control/function/tf.html <br>
 - Telechargement paquet **Control** Octave : <br>https://gnu-octave.github.io/packages/control/ <br>
@@ -239,12 +253,9 @@ On utilise le programme Octave défini précédemment; on modifie le coefficient
 
 - Documentation officielle bibliothèque Arduino **AutoPID** : <br>https://ryand.io/AutoPID/#basic-temperature-control <br> 
 
-
 ### Annexe : code Matlab/Octave commenté
 
 ```matlab
-
-
   clear all %retire les variables de la mémoire
   clc %vide la console
 
@@ -442,6 +453,4 @@ On utilise le programme Octave défini précédemment; on modifie le coefficient
   xlabel('Time (s)'); ylabel('Current (A)');
   title('Closed-loop responses');
   legend('Without PID', 'With PID', 'With former PID + perturbation', 'With new PID + perturbation' , 'With perturbation and no PID','Location', 'eastoutside');
-
-
 ```
